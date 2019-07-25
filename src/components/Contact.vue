@@ -26,7 +26,7 @@ export default {
         {
           name: 'Twitter',
           value: '@jun',
-          url: 'https://twitter.com/',
+          url: 'https://twitter.com/Jun82826744',
           img: 'https://cdn.svgporn.com/logos/twitter.svg'
         },
         {
