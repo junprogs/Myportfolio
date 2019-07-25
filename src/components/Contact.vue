@@ -80,6 +80,18 @@ p {
   margin: 5px;
 }
 
+@media screen and (min-width:892px){
+  p {
+    font-size: 1em;
+  }
+}
+
+@media screen and (min-width:599px){
+  p {
+    font-size: 1em;
+  }
+}
+
 img{
   opacity:0.1;
   position:absolute;
