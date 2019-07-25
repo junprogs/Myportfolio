@@ -14,7 +14,7 @@ export default {
     return {
       works: [
         {name: 'ポートフォリオサイト',
-          text: 'このサイトです。余計な機能は入れずに、シンプルなSPAとしました。使用技術はHTML5 + CSS3 + Sass + JavaScript(ES6) + Vue.js + Vue Router + GitHub + Netlifyです。'}
+          text: 'このサイトです。余計な機能は入れずに、シンプルなSPAとしました。使用技術はHTML5 + CSS3 + Sass + JavaScript(ES6) + Vue.js + Vue Router + Git + Netlifyです。'}
       ]
     }
   }
