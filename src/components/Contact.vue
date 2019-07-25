@@ -3,8 +3,8 @@
     <div class="box">
       <div class="content" v-for="(contact, index) in contacts" :key='index'>
         <h3> {{ contact.name }} </h3>
-        <p> {{ contact.value }} </p>
-        <p><a :href="contact.url" target="_blank" rel="noopener noreferrer">{{ contact.url }}</a></p>
+        <p><a :href="contact.url" target="_blank" rel="noopener noreferrer">{{ contact.value }}</a></p>
+        <p> {{ contact.url }} </p>
         <img v-bind:src="contact.img" alt="">
       </div>
     </div>
@@ -31,7 +31,7 @@ export default {
         },
         {
           name: 'E-Mail',
-          value: 'gmail.com',
+          value: 'gmail',
           url: 'jun.trois[at_mark]gmail.com',
           img: 'https://cdn.svgporn.com/logos/google-gmail.svg'
         }
