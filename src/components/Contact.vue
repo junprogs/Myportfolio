@@ -24,12 +24,6 @@ export default {
           img: 'https://cdn.svgporn.com/logos/github-octocat.svg'
         },
         {
-          name: 'Twitter',
-          value: 'jun',
-          url: 'https://twitter.com/Jun82826744',
-          img: 'https://cdn.svgporn.com/logos/twitter.svg'
-        },
-        {
           name: 'E-Mail',
           value: 'gmail',
           url: 'jun.trois[at_mark]gmail.com',

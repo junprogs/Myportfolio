@@ -29,23 +29,23 @@ export default {
   data () {
     return {
       skills: [
-        {name: 'HTML5 & CSS3', text: 'Progate･ドットインストール等で基礎を学び、このサイトを制作しました。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/html-5.svg'},
-        {name: 'JavaScript(ES6)', text: 'Progate･書籍等で学び、このサイトを制作しました。いくつか簡単なアプリも作りました。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/javascript.svg'},
-        {name: 'Python3', text: '設計思想が好きです。身の回りを自動化したいです。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/python.svg'},
-        {name: 'Swift', text: 'Playgroundで遊んでいるだけです。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/swift.svg'},
-        {name: 'English', text: '義務教育で身につけました(?)。自主的に学習を継続中です。The Simpsonsが好きです。', his: '使用歴:17年'},
-        {name: 'Japanese', text: '最も得意とする言語です。卒業論文は安部公房について書きました。', his: '使用歴:30年'}
+        {name: 'HTML5 & CSS3', text: 'Progate･ドットインストール等で基礎を学び、このサイトを制作しました。', img: 'https://cdn.svgporn.com/logos/html-5.svg'},
+        {name: 'JavaScript(ES6)', text: 'Progate･書籍等で学び、このサイトを制作しました。いくつか簡単なアプリも作りました。', img: 'https://cdn.svgporn.com/logos/javascript.svg'},
+        {name: 'Python3', text: '設計思想が好きです。身の回りを自動化したいです。', img: 'https://cdn.svgporn.com/logos/python.svg'},
+        {name: 'Swift', text: 'Playgroundで遊んでいるだけです。', img: 'https://cdn.svgporn.com/logos/swift.svg'},
+        {name: 'English', text: '義務教育で身につけました(?)。自主的に学習を継続中です。The Simpsonsが好きです。'},
+        {name: 'Japanese', text: '最も得意とする言語です。卒業論文は安部公房について書きました。'}
       ],
       tools: [
-        {name: 'Sass', text: '効率的なコーディングのために、積極的に取り入れるよう心掛けています。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/sass.svg'},
-        {name: 'Vue.js', text: 'Udemyや書籍等で基礎を学び、このサイトを制作しました。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/vue.svg'},
-        {name: 'Django', text: '他の要素との組み合わせを模索しています。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/django.svg'},
-        {name: 'Firebase', text: '試しに使ってみた程度です。これから慣れていきたいです。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/firebase.svg'},
-        {name: 'GitHub', text: 'チーム開発は未経験ですが、Ver.管理に使用しています。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/github-octocat.svg'},
-        {name: 'Netlify', text: 'このサイトのデプロイのために初めて使用しました。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/netlify.svg'},
-        {name: 'AWS', text: '試しに使った程度です。現在勉強中です。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/aws.svg'},
-        {name: 'Windows', text: '幼少期よりネットを徘徊していました。', his: '使用歴:20年', img: 'https://cdn.svgporn.com/logos/microsoft-windows.svg'},
-        {name: 'Mac', text: 'スタバでドヤ顔するために購入しました。', his: '使用歴:0ヶ月', img: 'https://cdn.svgporn.com/logos/macosx.svg'}
+        {name: 'Sass', text: '効率的なコーディングのために、積極的に取り入れるよう心掛けています。', img: 'https://cdn.svgporn.com/logos/sass.svg'},
+        {name: 'Vue.js', text: 'Udemyや書籍等で基礎を学び、このサイトを制作しました。', img: 'https://cdn.svgporn.com/logos/vue.svg'},
+        {name: 'Django', text: '他の要素との組み合わせを模索しています。', img: 'https://cdn.svgporn.com/logos/django.svg'},
+        {name: 'Firebase', text: '試しに使ってみた程度です。これから慣れていきたいです。', img: 'https://cdn.svgporn.com/logos/firebase.svg'},
+        {name: 'GitHub', text: 'チーム開発は未経験ですが、Ver.管理に使用しています。', img: 'https://cdn.svgporn.com/logos/github-octocat.svg'},
+        {name: 'Netlify', text: 'このサイトのデプロイのために初めて使用しました。', img: 'https://cdn.svgporn.com/logos/netlify.svg'},
+        {name: 'AWS', text: '試しに使った程度です。現在勉強中です。', img: 'https://cdn.svgporn.com/logos/aws.svg'},
+        {name: 'Windows', text: '幼少期よりネットを徘徊していました。', img: 'https://cdn.svgporn.com/logos/microsoft-windows.svg'},
+        {name: 'Mac', text: 'スタバでドヤ顔するために購入しました。', img: 'https://cdn.svgporn.com/logos/macosx.svg'}
       ]
     }
   }
