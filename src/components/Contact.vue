@@ -19,14 +19,14 @@ export default {
       contacts: [
         {
           name: 'GitHub',
-          value: 'Jun-trois',
-          url: 'https://github.com/Jun-trois',
+          value: 'junprogs',
+          url: 'https://github.com/junprogs',
           img: 'https://cdn.svgporn.com/logos/github-octocat.svg'
         },
         {
           name: 'E-Mail',
           value: 'gmail',
-          url: 'jun.trois[at_mark]gmail.com',
+          url: 'jun.progs[at_mark]gmail.com',
           img: 'https://cdn.svgporn.com/logos/google-gmail.svg'
         }
       ]
